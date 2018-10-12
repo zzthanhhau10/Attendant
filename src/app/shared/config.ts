@@ -1,4 +1,4 @@
 export class AppConfig {
-    public apiHost = "http://jostestone.herokuapp.com/api";
-    public host = "http://jostestone.herokuapp.com";
+    public apiHost = "http://hethongdiemdanh8.herokuapp.com/api";
+    public host = "http://hethongdiemdanh8.herokuapp.com";
 }
